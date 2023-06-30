@@ -1,7 +1,7 @@
-pontos_perdidos = 11 / 3  
+# pontos_perdidos = 11 / 3  
 
-print(pontos_perdidos)
-print(type(pontos_perdidos))
+# print(pontos_perdidos)
+# print(type(pontos_perdidos))
 
 # O Python 3 usa uma forma de arredondar, que também é chamado de Banker's rounding. Nessa forma, os valores são arredondados para o número 
 # que for mais próximo, por exemplo: 2.4 seria arredondado para 2, todavia 2.6 já seria arredondado para 3. Quando um valor é igualmente 
@@ -11,3 +11,5 @@ print(type(pontos_perdidos))
 
 # / = float division
 # // = integer division
+
+help(print)
