@@ -1,4 +1,4 @@
-# Função print() e variáveis
+# Função print()
 
 > Função print()
 
@@ -35,3 +35,22 @@ Após executar a código, repare que a função print pode receber os seguintes 
 > end 
 
 É o que acontecerá ao final da função, por padrão há uma quebra de linha, uma nova linha (\n).
+
+>Testando a função print()
+
+De volta ao console, execute a função print com os valores que vimos:
+
+```
+print("Brasil", "ganhou", 5, "titulos mundiais", sep="-")
+print("Brasil", "ganhou", 5, "titulos mundiais", end="")
+```
+
+O resultado será: 
+
+```
+Brasil-ganhou-5-titulos mundiais
+Brasil ganhou 5 titulos mundiais
+```
+
+# Variáveis
+
