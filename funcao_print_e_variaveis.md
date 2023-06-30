@@ -10,4 +10,6 @@ print("Olá, mundo!")
 
 O resultado será: 
 
+```
 Olá, mundo!
+```
