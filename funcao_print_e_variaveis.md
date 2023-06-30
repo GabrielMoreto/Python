@@ -1,4 +1,4 @@
-# Sistema de cadastro de jogos </h1>
+# Função print() e variáveis
 
 > Função print()
 
