@@ -54,5 +54,24 @@ Brasil ganhou 5 titulos mundiais
 
 # Variáveis
 
+Para definir uma variável siga os exemplos abaixo:
+
+```
+pais = "Italia"
+quantidade = 4
+```
+
+Com as variáveis definidas, podemos refazer a função print, só que dessa vez passando as variáveis no lugar dos antigos valores:
+
+```
+print(pais, "ganhou", quantidade, "titulos mundiais")
+```
+
+O resultado será:
+
+```
+Italia ganhou 4 titulos mundiais
+```
+Para saber mais sobre os tipos de variáveis:
 
 
