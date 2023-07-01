@@ -22,7 +22,7 @@ A função "help()" é uma função de ajuda. Por exemplo, para saber mais sobre
 help(print)
 ```
 
-Após executar a código, repare que a função print pode receber os seguintes valores: 
+Após executar o código, repare que a função print pode receber os seguintes valores: 
 
 >value 
 
@@ -53,4 +53,6 @@ Brasil ganhou 5 titulos mundiais
 ```
 
 # Variáveis
+
+
 
