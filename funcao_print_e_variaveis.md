@@ -24,15 +24,15 @@ help(print)
 
 Após executar o código, repare que a função print pode receber os seguintes valores: 
 
->value 
+`value`
 
 É o valor que queremos imprimir, a função pode receber mais de um valor, basta separá-los por vírgula.
 
-> sep 
+`sep` 
 
 É o separador entre os valores, por padrão o separador é um espaço em branco.
 
-> end 
+`end`
 
 É o que acontecerá ao final da função, por padrão há uma quebra de linha, uma nova linha (\n).
 
@@ -72,9 +72,7 @@ O resultado será:
 ```
 Italia ganhou 4 titulos mundiais
 ```
-Para saber mais sobre os tipos de variáveis:
-
-[Tipos de variáveis]
+Para saber mais sobre os tipos de variáveis acesse [Tipos de variáveis].
 
 [Tipos de variáveis]: https://github.com/GabrielMoreto/Python/blob/c5cc2d7991a4b00320461a93f070a14fa003d3ab/tipagem_de_variaveis.py
 
