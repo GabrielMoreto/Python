@@ -74,4 +74,11 @@ Italia ganhou 4 titulos mundiais
 ```
 Para saber mais sobre os tipos de variáveis:
 
+[Tipos de variáveis]
+
+[Tipos de variáveis]: https://github.com/GabrielMoreto/Python/blob/c5cc2d7991a4b00320461a93f070a14fa003d3ab/tipagem_de_variaveis.py
+
+`pytest`
+
+
 
