@@ -80,9 +80,8 @@ O resultado será:
 ```
 'python'
 ```
-Isso acontece porque as funções de string não alteram a string original, elas devolvem uma nova string.
+Isso acontece pois as funções de string não alteram a string original, elas devolvem uma nova string.
 
-```
 Para saber mais sobre funções do tipo string acesse: [Funções do tipo string].
 
-[Tipos de variáveis]: https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
+[Funções do tipo string]: https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
