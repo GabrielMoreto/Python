@@ -69,11 +69,10 @@ O resultado será:
 É importa lembrar que esse tipo de funções, na verdade não alteram a string original. Por exemplo, veja esse código abaixo:
 
 ```
->>> palavra = "python"
->>> palavra.upper()
->>> print(palavra) 
+palavra = "python"
+palavra.upper()
+print(palavra) 
 ```
-Qual o resultado?
 
 O resultado será:
 
