@@ -1,3 +1,3 @@
-palavra = "python"
-palavra = palavra.capitalize()
+palavra = "   python   "
+palavra = palavra.strip()
 print(palavra)

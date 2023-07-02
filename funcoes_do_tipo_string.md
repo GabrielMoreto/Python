@@ -50,11 +50,11 @@ O resultado será:
 
 > Função strip()
 
-A função "lower()" serve para retornar a string com todas as letras em minúsculo. Por exemplo:
+A função "lower()" serve para remover todos os espaços em branco no início e no fim da string. Por exemplo:
 
 ```
-palavra = "python"
-palavra = palavra.upper()
+palavra = "   python   "
+palavra = palavra.strip()
 print(palavra)
 ```
 
