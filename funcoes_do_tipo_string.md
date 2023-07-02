@@ -50,7 +50,7 @@ O resultado será:
 
 > Função strip()
 
-A função "lower()" serve para remover todos os espaços em branco no início e no fim da string. Por exemplo:
+A função "strip()" serve para remover todos os espaços em branco no início e no fim da string. Por exemplo:
 
 ```
 palavra = "   python   "
